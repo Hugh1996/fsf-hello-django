@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-%j*_fx(h#xzndqg0lt@uf3ob2sv*8u6mw_=o=!fe8)4)@1=9ww
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-hugh1996-fsf-hello-djang-n1edtc8ctm.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['git.heroku.com/hugh-django-todo-app.git']
 
 
 # Application definition
